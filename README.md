@@ -1,1 +1,1 @@
-# my-spf13-vim
+# my-vim-config
